@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages & Technologies That I Used:</h3>
+<h3 align="left">Languages & Technologies I Use:</h3>
 
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
